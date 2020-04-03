@@ -13,6 +13,10 @@ fn main() {
     c=-1;
     println!("c={} after modification",c);
 
+    println!("CHecking the git commit","Yes");
+
+
+
 
 
 
