@@ -15,6 +15,11 @@ fn main() {
 
     println!("CHecking the git commit","Yes");
 
+    println!("CHecking the git commit","Yes");
+    println!("CHecking the git commit","Yes");
+    println!("CHecking the git commit","Yes");
+    println!("CHecking the git commit","Yes");
+    println!("CHecking the git commit","Yes");
 
 
 
